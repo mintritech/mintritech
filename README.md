@@ -40,11 +40,34 @@ I come from a networking and infrastructure background, and I build with a syste
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<p>
+  <img src="assets/aws-icons/ec2.svg" alt="Amazon EC2 Logo" width="34" />
+  <img src="assets/aws-icons/ecr.svg" alt="Amazon ECR Logo" width="34" />
+  <img src="assets/aws-icons/s3.svg" alt="Amazon S3 Logo" width="34" />
+  <img src="assets/aws-icons/secrets-manager.svg" alt="AWS Secrets Manager Logo" width="34" />
+  <img src="assets/aws-icons/iam.svg" alt="AWS IAM Logo" width="34" />
+  <img src="assets/aws-icons/codepipeline.svg" alt="AWS CodePipeline Logo" width="34" />
+  <img src="assets/aws-icons/amplify.svg" alt="AWS Amplify Logo" width="34" />
+  <img src="assets/aws-icons/codedeploy.svg" alt="AWS CodeDeploy Logo" width="34" />
+  <img src="assets/aws-icons/route53.svg" alt="Amazon Route 53 Logo" width="34" />
+  <img src="assets/aws-icons/aurora.svg" alt="Amazon Aurora Logo" width="34" />
+  <img src="assets/aws-icons/rds.svg" alt="Amazon RDS Logo" width="34" />
+</p>
+
+<p>
   <img src="assets/badges/aws-ec2.svg" alt="EC2" />
   <img src="assets/badges/aws-ecr.svg" alt="ECR" />
   <img src="assets/badges/aws-s3.svg" alt="S3" />
   <img src="assets/badges/aws-secrets-manager.svg" alt="Secrets Manager" />
   <img src="assets/badges/aws-iam.svg" alt="IAM" />
+  <img src="assets/badges/aws-codepipeline.svg" alt="CodePipeline" />
+  <img src="assets/badges/aws-amplify.svg" alt="Amplify" />
+  <img src="assets/badges/aws-codedeploy.svg" alt="CodeDeploy" />
+  <img src="assets/badges/aws-route53.svg" alt="Route 53" />
+  <img src="assets/badges/aws-aurora.svg" alt="Aurora" />
+  <img src="assets/badges/aws-rds.svg" alt="RDS" />
 </p>
 
 ### Databases & Data Operations
